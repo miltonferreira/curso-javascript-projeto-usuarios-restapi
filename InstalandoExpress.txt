@@ -1,0 +1,46 @@
+roda o Express -----> nodemon index
+
+--------- Instalando o Package.Json ------------- | Infos do projeto
+
+npm init
+entry point: index.js | Arquivo que o dev criou na pasta
+
+--------- Instalando o Express ------------- | Express é um framework web
+
+npm install express --save
+
+--------- Instalando o Express Validator ------------- | Validador do Express
+
+npm install express-validator --save
+
+
+--------- Instalando o Nodemon ------------- | Usando para atualizar o servidor
+
+npm install nodemon -g | -g significa que é global para todos projetos
+nodemon index
+
+--------- Instalando o Consign ------------- | Gerenciar as rotas da app
+
+npm install consign --save
+
+--------- Instalando o body-parser ------------- | interpreta dados do post com pacote que converte em json
+
+npm install body-parser --save
+
+--------- Instalando o NeDB ------------- | BD em Javascript
+
+npm install nedb --save
+
+--------- Instalando o Express Generator ------------- | Usado para unir projetos
+
+npm install express-generator -g
+express -h
+express --ejs client-server
+cd client-server\
+npm install
+npm start
+
+--------- Instalando o restify ------------- | Usado para acessar API REST - http://restify.com/docs/client-guide/
+
+npm install restify-clients --save	
+npm install restify-clients@2.5.2	| caso aconteça um erro, usar esse comando

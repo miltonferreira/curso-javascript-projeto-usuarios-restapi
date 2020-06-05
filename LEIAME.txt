@@ -1,0 +1,2 @@
+Aqui onde possui a API para acessar o banco de dados http://localhost:4000/, para rodar abra o gitbash e digite
+nodemon index
